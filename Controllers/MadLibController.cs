@@ -2,7 +2,8 @@
 // 10-26-22
 // Mad Lib - Endpoint
 // Pull in variables via URL for our Mad Libs API project
-// Peer reviewed by 
+// Peer reviewed by
+// Testing URL: https://localhost:7201/madlib/Harman/sick/cop/Weezer/silly/strong/whistle/cans/thicc/sleeping
 
 using Microsoft.AspNetCore.Mvc;
 
