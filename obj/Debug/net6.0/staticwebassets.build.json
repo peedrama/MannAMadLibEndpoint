@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XDz2lDttXV/gOPR0ixyktzHAcDMWEXYoGBunwwNHpwc=",
+  "Source": "MannAMadLibEndpoint",
+  "BasePath": "_content/MannAMadLibEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
