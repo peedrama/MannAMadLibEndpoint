@@ -37,16 +37,16 @@ public class MadLibController : ControllerBase
     public string MadLib(string word0, string word1, string word2, string word3, string word4, string word5, string word6, string word7, string word8, string word9)
     {
       string[] words = new string[10];
-      words[0] = word0;
-      words[1] = word1;
-      words[2] = word2;
-      words[3] = word3;
-      words[4] = word4;
-      words[5] = word5;
-      words[6] = word6;
-      words[7] = word7;
-      words[8] = word8;
-      words[9] = word9;
+      words[0] = word0; // name
+      words[1] = word1; // adj
+      words[2] = word2; // occupation
+      words[3] = word3; // band
+      words[4] = word4; // adj
+      words[5] = word5; // adj
+      words[6] = word6; // noun
+      words[7] = word7; // noun (plural)
+      words[8] = word8; // noun
+      words[9] = word9; // verb ending in -ing
       return $"Did you ever hear the tragedy of Darth {words[0]} the {words[1]}? I thought not. It\'s not a story a {words[2]} would tell you. It\'s a {words[3]} legend. Darth {words[0]} was a Dark Lord of {words[3]}, so {words[4]} and so {words[5]} he could use the {words[6]} to influence midichlorians to create {words[7]}. He had such a knowledge of the {words[8]} side of The Force that he could even keep the ones he cared about from {words[9]}.";
     }
 }
