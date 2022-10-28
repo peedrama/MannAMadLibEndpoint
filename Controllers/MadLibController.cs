@@ -4,6 +4,7 @@
 // Pull in variables via URL for our Mad Libs API project
 // Peer reviewed by Jessie Lamzon: The use of switch worked well for this project and i like how you did it.  I did not run with errors and followed the assigment requirements.  Cool how you added the default switch too.  Good job!
 // Testing URL: https://localhost:7201/madlib/Harman/sick/cop/Weezer/silly/strong/whistle/cans/thicc/sleeping
+// Github URL: https://github.com/peedrama/MannAMadLibEndpoint
 
 using Microsoft.AspNetCore.Mvc;
 
